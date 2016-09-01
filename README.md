@@ -1,5 +1,5 @@
 # allure-example
-The purpouse of this project is just an example to demostrate a bug in allure when the method who contain a step has an optional parameter
+The purpose of this project is just an example to demostrate a bug in allure when the method who contain a step has an optional parameter
 
 
 
